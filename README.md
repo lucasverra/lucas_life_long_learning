@@ -1,6 +1,4 @@
-# Lucas Lige long learning site
-
-___
+# Lucas Life long learning website
 
 Personal project to build a web site related to the courses I've taken online
 Main goals are : 
