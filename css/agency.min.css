@@ -34,3 +34,12 @@
 .list-group.list-group-root > .list-group > .list-group > .list-group-item {
   padding-left: 45px;
 }
+
+.skill_level {
+  font-weight: 600;
+}
+
+.intro-heading {
+   text-shadow: -1px 0 #e6e6e6, 0 1px #e6e6e6, 1px 0 #e6e6e6, 0 -1px #e6e6e6;
+}
+
