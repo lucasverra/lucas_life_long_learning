@@ -43,3 +43,7 @@
    text-shadow: -1px 0 #e6e6e6, 0 1px #e6e6e6, 1px 0 #e6e6e6, 0 -1px #e6e6e6;
 }
 
+.takeaway_list {
+  text-align: left;
+}
+
