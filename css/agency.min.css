@@ -47,3 +47,7 @@
   text-align: left;
 }
 
+.blockquote-reverse {
+  border-right: 5px solid #fed136;
+}
+
